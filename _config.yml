@@ -1,0 +1,28 @@
+name: Eclectic Dreams
+favicon: null
+layout_spectrum: 0.5149991980288178
+typography_spectrum: 0.5826583404559642
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.03240287071093917
+  lightness: 0.10550927557051182
+  saturation: 0.7971600433811545
+  rhythmicContrast: 0.34511693264357746
+purpose: []
