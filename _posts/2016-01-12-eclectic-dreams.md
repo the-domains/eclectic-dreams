@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: The website of author/editor H David Blalock
-datePublished: '2016-01-12T05:32:17.210Z'
-dateModified: '2016-01-12T05:31:39.090Z'
+datePublished: '2016-01-13T05:55:41.853Z'
+dateModified: '2016-01-12T05:32:23.483Z'
 title: Welcome to Eclectic Dreams
 author: []
 sourcePath: _posts/2016-01-12-eclectic-dreams.md
