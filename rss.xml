@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The Website of Author/Editor H David Blalock]]></title>
         <description><![CDATA[The Website of Author/Editor H David Blalock]]></description>
-        <link>https://thegrid.ai/eclectic-dreams/</link>
+        <link>http://hdavidblalock.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 05:32:46 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/eclectic-dreams/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 05:56:02 GMT</lastBuildDate>
+        <atom:link href="http://hdavidblalock.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Eclectic Dreams]]></title>
+            <description><![CDATA[<article><h1>Welcome to Eclectic Dreams</h1><h2>the website of author/editor H David Blalock</h2><p>The website of author/editor H David Blalock</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5e1a4fbf9f819184e1585db6e33399c74478b04.jpg"></article>]]></description>
+            <link>http://hdavidblalock.com/eclectic-dreams/index.html</link>
+            <guid isPermaLink="false">c7c39d88-8e3a-4355-8e79-ff46ecb8794b</guid>
+            <pubDate>Wed, 13 Jan 2016 05:55:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[And a Madman Mumbled available on Audible.com]]></title>
             <description><![CDATA[<article><h1>And a Madman Mumbled available on Audible.com</h1><p>And a Madman Mumbled: Tales from the Mind of H. David Blalock 
@@ -15,7 +22,7 @@ nightmares. Blalock carefully crafts each and every tale to thrill,
 excite, involve, and engage. Encounter creatures and stories both 
 strange and familiar, and some even both, in And a Madman Mumbled: Tales from the Mind of H. David Blalock, from Pro Se Productions.
                        </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57b39f02b73fb0a9d0016b50790c0b73c9919a14.jpg"></article>]]></description>
-            <link>https://thegrid.ai/eclectic-dreams/and-a-madman-mumbled-available-on-audiblecom/index.html</link>
+            <link>http://hdavidblalock.com/and-a-madman-mumbled-available-on-audiblecom/index.html</link>
             <guid isPermaLink="false">977b2874-7b82-43b7-b6fb-6da7f02c0bdf</guid>
             <pubDate>Tue, 12 Jan 2016 05:18:14 GMT</pubDate>
         </item>
@@ -30,16 +37,9 @@ and thirty six artists have pooled their talents to produce a volume
 like none other ever conceived before. If you are unfamiliar with New 
 Pulp, then look no further than this one book. Then buckle up and enjoy 
 the ride.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/053f42f123ec1953c361dae69c4bf30563d1f752.jpg"></article>]]></description>
-            <link>https://thegrid.ai/eclectic-dreams/legends-of-new-pulp-fiction/index.html</link>
+            <link>http://hdavidblalock.com/legends-of-new-pulp-fiction/index.html</link>
             <guid isPermaLink="false">d439b673-83bf-408c-860f-2303af62d051</guid>
             <pubDate>Tue, 12 Jan 2016 05:18:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to Eclectic Dreams]]></title>
-            <description><![CDATA[<article><h1>Welcome to Eclectic Dreams</h1><h2>the website of author/editor H David Blalock</h2><p>The website of author/editor H David Blalock</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5e1a4fbf9f819184e1585db6e33399c74478b04.jpg"></article>]]></description>
-            <link>https://thegrid.ai/eclectic-dreams/eclectic-dreams/index.html</link>
-            <guid isPermaLink="false">c7c39d88-8e3a-4355-8e79-ff46ecb8794b</guid>
-            <pubDate>Tue, 12 Jan 2016 05:32:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
