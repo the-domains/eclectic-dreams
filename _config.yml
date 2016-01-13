@@ -1,6 +1,6 @@
 name: Eclectic Dreams
 favicon: null
-layout_spectrum: 0.75245
+layout_spectrum: 0.00802
 typography_spectrum: 0.75363
 title: The Website of Author/Editor H David Blalock
 cta:
@@ -22,7 +22,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.03240287071093917
+  brandStrength: 0.25
   lightness: 0.10550927557051182
   saturation: 0.7971600433811545
   rhythmicContrast: 0.5
